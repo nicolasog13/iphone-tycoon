@@ -5,4 +5,4 @@ Let's make a game!
   created:12/31/2023
 
 Settings
-  background:https://file.garden/ZZHZGtU-8T9FoWZR/iphone-clicker/background-pxrt
+  background:https://file.garden/ZZHZGtU-8T9FoWZR/iphone-clicker/bg.jpeg
