@@ -5,5 +5,5 @@ Let's make a game!
   created:12/31/2023
   version:(error,creator doesnt want to update this)
 
-settings
+Settings
   background:https://file.garden/ZZHZGtU-8T9FoWZR/iphone-clicker/background-pxrt
