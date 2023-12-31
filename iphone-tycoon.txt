@@ -3,7 +3,6 @@ Let's make a game!
   by:apple
   desc:create an ultimate iphone tycoon and start making more money than apple themselves! who knows what you will achieve...
   created:12/31/2023
-  version:1.0
 
 Settings
   background:https://file.garden/ZZHZGtU-8T9FoWZR/iphone-clicker/background-pxrt
