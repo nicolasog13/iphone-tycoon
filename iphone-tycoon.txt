@@ -1,1 +1,6 @@
 Let's make a game!
+  name:iphone tycoon
+  by:apple
+  desc:create an ultimate iphone tycoon and start making more money than apple themselves! who knows what you will achieve...
+  created:12/31/2023
+  version:(error,creator doesnt want to update this)
